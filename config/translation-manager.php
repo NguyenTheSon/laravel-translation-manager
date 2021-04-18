@@ -15,6 +15,8 @@ return [
         'middleware' => 'auth',
     ],
 
+    'name' => 'translations',
+
     /**
      * Enable deletion of translations
      *
